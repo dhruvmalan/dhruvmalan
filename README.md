@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahimnamehta&label=Profile%20views&color=0e75b6&style=flat" alt="mahimnamehta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahimnamehta" alt="mahimnamehta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvmalan" alt="dhruvmalan" /></a> </p>
 
 - 🌱 I’m currently learning **Fullstack Development**
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mahimnamehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahimnamehta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahimnamehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahimnamehta" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mahimnamehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahimnamehta" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mahimnamehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mahimnamehta" height="30" width="40" /></a>
+<a href="https://codepen.io/mahimnamehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhruvmalan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahimnamehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvmalan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/dhruvmalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhruvmalan" height="30" width="40" /></a>
+<a href="https://codesandbox.com/dhruvmalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dhruvmalan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
